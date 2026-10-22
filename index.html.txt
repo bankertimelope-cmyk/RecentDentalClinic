@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="theme-color" content="#123C46" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=yes, address=yes" />
+    
+    <!-- Google Site Verification for Search Console -->
+    <meta name="google-site-verification" content="-uYRPlQ4JiozlJUksaoRW2_F4QxGx-gixia1U63u5Sk" />
+
+    <!-- Primary SEO Meta Tags -->
+    <title>Recent Dental Clinic | Dentist & Dental Care in Bhadravathi</title>
+    <meta
+      name="description"
+      content="Recent Dental Clinic provides trusted dental checkups, root canal treatment, ultrasonic cleaning, and dental care on BH Road, Bhadravathi, Karnataka."
+    />
+    <link rel="canonical" href="https://recent-dental-clinic.ai.studio/" />
+
+    <!-- Search Engine Crawl Directives -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+    <!-- OpenGraph / Social Sharing Card -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Recent Dental Clinic" />
+    <meta property="og:url" content="https://recent-dental-clinic.ai.studio/" />
+    <meta property="og:title" content="Recent Dental Clinic | Dentist & Dental Care in Bhadravathi" />
+    <meta
+      property="og:description"
+      content="Recent Dental Clinic provides trusted dental checkups, root canal treatment, ultrasonic cleaning, and dental care on BH Road, Bhadravathi, Karnataka."
+    />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&h=630&q=80" />
+    <meta property="og:image:alt" content="Recent Dental Clinic Bhadravathi Modern Consultation and Care" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Recent Dental Clinic | Dentist in Bhadravathi" />
+    <meta
+      name="twitter:description"
+      content="Recent Dental Clinic provides trusted dental checkups, root canal treatment, ultrasonic cleaning, and dental care on BH Road, Bhadravathi, Karnataka."
+    />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&h=630&q=80" />
+
+    <!-- Typography Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Structured Data for Verified Local Dental Clinic (Schema.org Dentist & LocalBusiness) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": ["Dentist", "DentalClinic", "LocalBusiness"],
+        "@id": "https://recent-dental-clinic.ai.studio/#clinic",
+        "name": "Recent Dental Clinic",
+        "alternateName": "Recent Dental",
+        "url": "https://recent-dental-clinic.ai.studio/",
+        "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=80",
+        "logo": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=300&q=80",
+        "hasMap": "https://maps.app.goo.gl/Yq7uhq1cSjih9yeF6",
+        "telephone": "+91 8282-266000",
+        "email": "care@recentdental.in",
+        "description": "Recent Dental Clinic provides high-standard oral care, digital consultations, painless root canals, ultrasonic cleaning, and restorative dental treatments in Bhadravathi.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sri Renuka Nilaya, BH Road, Anwar Colony, Near Basava Mantapa",
+          "addressLocality": "Bhadravathi",
+          "addressRegion": "Karnataka",
+          "postalCode": "577301",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 13.8465586,
+          "longitude": 75.7071284
+        },
+        "areaServed": {
+          "@type": "AdministrativeArea",
+          "name": "Bhadravathi, Shimoga District, Karnataka"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+            "opens": "10:00",
+            "closes": "20:00"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1",
+          "reviewCount": "24"
+        },
+        "priceRange": "₹₹",
+        "currenciesAccepted": "INR",
+        "paymentAccepted": "Cash, UPI, Credit Card, Debit Card",
+        "medicalSpecialty": "http://schema.org/Dentistry",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Dental Treatments & Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Comprehensive Dental Consultation & Digital Checkup",
+                "description": "Complete oral examination, intraoral inspection, and personalized treatment planning."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Ultrasonic Dental Cleaning & Scaling",
+                "description": "Professional removal of hard tartar and surface plaque to protect gums and teeth."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Root Canal Treatment (Endodontics)",
+                "description": "Specialized procedure to relieve severe toothache and preserve natural tooth structure."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Tooth-Coloured Composite Fillings",
+                "description": "Natural-looking aesthetic resin restorations that blend seamlessly with your natural tooth."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Dental Crowns & Fixed Ceramic Bridges",
+                "description": "Custom-fitted Zirconia and ceramic crowns to restore chewing function and replace missing teeth."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Gentle Tooth Extractions & Minor Oral Surgery",
+                "description": "Comfortable, atraumatic extraction of severely damaged teeth or problematic wisdom teeth."
+              }
+            }
+          ]
+        }
+      }
+    </script>
+  </head>
+  <body class="bg-[#FAFAF7] text-[#202B30] font-sans antialiased selection:bg-[#2B8C88]/20 selection:text-[#123C46]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html
